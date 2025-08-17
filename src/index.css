@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Orbitron:wght@400..900&family=Poppins:wght@200;400;600&display=swap');
+@import "tailwindcss";
+
+.orbitron-regular {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.orbitron-regular-italic {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.be-vietnam-pro {
+  font-family: 'voltec', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.be-atomos {
+  font-family: "Atomos", sans-serif;
+  /* font-optical-sizing: auto; */
+  font-weight: 400;
+  font-style: normal;
+}
